@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://codziennytelefon.dokuwell.com/sitemap.xml
+Sitemap: https://codziennytelefon.dokuline.com/sitemap.xml
